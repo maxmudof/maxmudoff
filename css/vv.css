@@ -1,0 +1,690 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#block{
+	margin: 0 auto;
+	width: 1000px;
+	height: 100%;
+
+}
+.bow{
+	width: 1000px;
+	height: 120px;
+	
+}
+.bow h1{
+	font-family: calibri;
+	font-weight: bold;
+	position: relative;
+	top: 30px;
+}
+.bow ul{
+	width: 500px;
+	list-style: none;
+	display: flex;
+	position: relative;
+	left: 585px;
+}
+.bow ul li{
+	width: 90px;
+}
+.bow ul li a{
+	text-decoration-line: none;
+	font-family: arial;
+	color: gray;
+}
+.bob1{
+	width: 1000px;
+	height: 450px;
+	background-color: #ffe1bd;
+}
+.bob1 h1{
+	font-family: calibri;
+	font-size: 40px;
+	position: relative;
+	left: 380px;
+	top: 100px;
+}
+.tayoq{
+	width: 60px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	left: 450px;
+	top: 120px;
+}
+.bob1 p{
+	width: 300px;
+	font-family: calibri;
+	position: relative;
+}
+.prof{
+	font-size: 25px;
+	font-family: roma;
+	position: relative;
+	left: -35px;
+	top: 10px;
+}
+.prof2{
+	font-family: roma;
+	font-size: 25px;
+	position: relative;
+	left: -90px;
+	top: 20px;
+}
+.knop{
+	position: relative;
+	left: -40px;
+	top: 80px;
+	width: 150px;
+	height: 50px;
+	background-color: black;
+	border-radius: 30px;
+}
+.doir1{
+	width: 10px;
+	height: 10px;
+	background-color: black;
+	border-radius: 30px;
+	position: relative;
+	left: 520px;
+	top: -150px;
+}
+.doir{
+	width: 7px;
+	height: 7px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: relative;
+	left: 520px;
+	top: -130px;
+}
+.knop p{
+	color: white;
+	font-family: arial;
+	position: relative;
+	left: 30px;
+	top: 15px;
+}
+.what{
+	font-family: arial;
+	font-size: 60px;
+	font-variant: hairline;
+	text-align: center;
+}
+.ota{
+	width: 1000px;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.rasm{
+	width: 400px;
+	height: 400px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_1.png);
+	background-size:80% 80%;
+}
+.razm{
+	width: 400px;
+	height: 400px;
+}
+.creat{
+	font-family: arial;
+	font-size: 30px;
+}
+.creat1{
+	font-family: arial;
+	font-size: 50px;
+}
+.ciziq{
+	width: 60px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: 20px;
+}
+.lorem{
+	font-family: arial;
+}
+.learn{
+	position: relative;
+	left: 0px;
+	top: 40px;
+	width: 140px;
+	height: 40px;
+	background-color: white;
+	border: 2px solid gray ;
+	border-radius: 30px;
+}
+.razm .learn p{
+	font-family: arial;
+	font-size: 14px;
+	position: relative;
+	left: 35px;
+	top: 10px;
+}
+.ota2{
+	width: 1000px;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.rasm2{
+	width: 400px;
+	height: 400px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_2.png);
+	
+	background-size:80% 80%;
+}
+.razm2{
+	width: 400px;
+	height: 400px;
+}
+.creat2{
+	font-family: arial;
+	font-size: 30px;
+}
+.creat21{
+	font-family: arial;
+	font-size: 50px;
+}
+.ciziq2{
+	width: 60px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: 20px;
+}
+.lorem{
+	font-family: arial;
+}
+.learn2{
+	font-family: arial;
+	position: relative;
+	left: 0px;
+	top: 40px;
+	width: 140px;
+	height: 40px;
+	background-color: white;
+	border: 2px solid gray ;
+	border-radius: 30px;
+}
+.razm2 .learn2 p{
+	font-family: arial;
+	font-size: 14px;
+	position: relative;
+	left: 35px;
+	top: 10px;
+}
+.ota3{
+	width: 1000px;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.rasm3{
+	width: 400px;
+	height: 400px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_3.png);
+	background-size:80% 80%;
+}
+.razm3{
+	width: 400px;
+	height: 400px;
+}
+.creat3{
+	font-family: arial;
+	font-size: 30px;
+}
+.creat31{
+	font-family: arial;
+	font-size: 50px;
+}
+.ciziq3{
+	width: 60px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: 20px;
+}
+.lorem3{
+	font-family: arial;
+}
+.learn3{
+	position: relative;
+	left: 0px;
+	top: 40px;
+	width: 140px;
+	height: 40px;
+	background-color: white;
+	border: 2px solid gray ;
+	border-radius: 30px;
+}
+.razm3 .learn3 p{
+	font-family: arial;
+	font-size: 14px;
+	position: relative;
+	left: 35px;
+	top: 10px;
+}
+.surat1{
+	width: 290px;
+	height: 290px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_4.png);
+	background-size:90% 90%;
+	position: relative;
+
+}
+.surat2{
+	width: 290px;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_5.png);
+	background-size:100% 80%;
+	position: relative;
+
+}
+.surat3{
+	width: 290px;
+	height: 290px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_6.png);
+	background-size:80% 80%;
+	position: relative;
+
+}
+.surat4{
+	width: 290px;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_7.png);
+	background-size:90% 80%;
+	position: relative;
+	top: -195px;
+
+}
+.surat5{
+	width: 290px;
+	height: 290px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_8.png);
+	background-size:80% 80%;
+	position: relative;
+	top: 15px;
+
+}
+.surat6{
+	width: 290px;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-image: url(rasmlar/Screenshot_9.png);
+	background-size:90% 85%;
+	position: relative;
+	top: -195px;
+}
+.top{
+	margin: 0 auto;
+	width: 900px;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.top2{
+	margin: 0 auto;
+	width: 900px;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.learn4{
+	position: relative;
+	left: 430px;
+	top: -120px;
+	width: 140px;
+	height: 40px;
+	background-color: black;
+	border: 2px solid gray ;
+	border-radius: 30px;
+}
+.learn4 p{
+	color: white;
+	font-family: arial;
+	font-size: 14px;
+	position: relative;
+	left: 35px;
+	top: 10px;
+}
+.bob2{
+	width: 1000px;
+	height: 550px;
+	background-color: #ffe1bd;
+}
+.what2{
+	font-family: arial;
+	font-size: 60px;
+	font-variant: hairline;
+	text-align: center;
+}
+.balon{
+	margin: 0 auto;
+	width: 600px;
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.doira{
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	border-radius: 50%;
+
+}
+.qara{
+	width: 35px;
+	height: 70px;
+	background-color: red;
+	position: relative;
+	left: 80px;
+	top: -100px;
+}
+.qara2{
+	width: 35px;
+	height: 70px;
+	background-color: red;
+	position: relative;
+	left: 880px;
+	top: -150px;
+}
+.paul{
+	font-family: calibri;
+	position: relative;
+	left: 240px;
+	top: 320px;
+}
+.ciziq4{
+	width: 50px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: -90px;
+	left: 270px;
+}
+.art{
+	font-family: arial;
+	position: relative;
+	top: -80px;
+	left: 260px;
+}
+.paul2{
+	font-family: calibri;
+	position: relative;
+	left: 400px;
+	top: -237px;
+}
+.ciziq5{
+	width: 50px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: -110px;
+	left: 470px;
+}
+.art2{
+	font-family: arial;
+	position: relative;
+	top: -100px;
+	left: 470px;
+}
+.paul3{
+	font-family: calibri;
+	position: relative;
+	left: 630px;
+	top: -195px;
+}
+.ciziq6{
+	width: 50px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: -132px;
+	left: 675px;
+}
+.art3{
+	font-family: arial;
+	position: relative;
+	top: -122px;
+	left: 650px;
+}
+.doir12{
+	width: 10px;
+	height: 10px;
+	background-color: black;
+	border-radius: 30px;
+	position: relative;
+	left: 450px;
+	top: -150px;
+}
+.doir2{
+	width: 7px;
+	height: 7px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: relative;
+	left: 520px;
+	top: -160px;
+}
+.doir3{
+	width: 7px;
+	height: 7px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: relative;
+	left: 485px;
+	top: -171px;
+}
+.says{
+	width: 1000px;
+	height: 600px;
+	
+}
+.what3{
+	font-family: arial;
+	font-size: 60px;
+	font-variant: hairline;
+	text-align: center;
+}
+.what4{
+	color: white;
+	font-family: arial;
+	font-size: 60px;
+	font-variant: hairline;
+	text-align: center;
+}
+.ong4{
+	width: 500px;
+	height: 200px;
+}
+.cap4{
+	height: 200px;
+	width: 500px;
+}
+.paul4{
+	font-family: calibri;
+	position: relative;
+	left: 330px;
+	top: 0px;
+}
+.ciziq7{
+	width: 50px;
+	height: 3px;
+	background-color: black;
+	position: relative;
+	top: 70px;
+	left: 415px;
+}
+.art4{
+	font-family: arial;
+	position: relative;
+	top: 80px;
+	left: 370px;
+}
+.bowqa{
+	width: 1000px;
+	height: 200px;
+	display: flex;
+}
+.bowqa .cap4 p{
+	width: 450px;
+	position: relative;
+	font-family: arial;
+	left: 20px;
+	top: 30px;
+}
+.scroll{
+	width: 1000px;
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.scrol1, .scrol2, .scrol3, .scrol4{
+	width: 200px;
+	height: 100px;
+	background-color: lightgrey;
+}
+.doir13{
+	width: 10px;
+	height: 10px;
+	background-color: black;
+	border-radius: 30px;
+	position: relative;
+	left: 450px;
+	top: 22px;
+}
+.doir23{
+	width: 7px;
+	height: 7px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: relative;
+	left: 520px;
+	top: 12px;
+}
+.doir33{
+	width: 7px;
+	height: 7px;
+	border: 2px solid black;
+	border-radius: 30px;
+	position: relative;
+	left: 485px;
+	top: 1px;
+}
+.qora{
+	width: 1000px;
+	height: 550px;
+	background-color: black	;
+}
+.joy{
+	width: 1000px;
+	height: 400px;
+	display: flex;
+}
+.bir{
+	width: 500px;
+	height: 400px;
+}
+.ikki{
+	width: 500px;
+	height: 400px;
+}
+.joy1{
+	width: 30px;
+	height: 30px;
+	background-color: lightgrey;
+	position: relative;
+	left: 50px;
+	top: 60px;
+}
+.joy2{
+	width: 30px;
+	height: 30px;
+	background-color: lightgrey;
+	position: relative;
+	left: 50px;
+	top: 60px;
+}
+.joy3{
+	width: 30px;
+	height: 30px;
+	background-color: lightgrey;
+	position: relative;
+	left: 50px;
+	top: 60px;
+}
+.bir p{
+	font-family: arial;
+	width: 350px;
+	position: relative;
+	left: 100px;
+	top: 30px;
+	color: white;
+}
+.uzun{
+	width: 300px;
+	height: 70px;
+	position: relative;
+	left: 60px;
+	top: 80px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.icon{
+	width: 40px;
+	height: 40px;
+	background-color: lightgrey;
+	border-radius: 40px;
+}
+.ikki p{
+	font-family: arial;
+	color: grey;
+	position: relative;
+	left: 50px;
+	top: 60px;
+}
+.yol{
+	width: 400px;
+	height: 1px;
+	background-color: gray;
+	position: relative;
+	left: 50px;
+	top: 70px;
+}
+.oq{
+	width: 100px;
+	height: 30px;
+	background-color: white;
+	border-radius: 40px;
+	position: relative;
+	left: 50px;
+	top: 90px;
+}
+.oq a{
+	text-decoration-line: none;
+	color: black;
+	font-family: arial;
+	position: relative;
+	left: 27px;
+	top: 6px;
+}
+.oxiri{
+	width: 1000px;
+	height: 120px;
+	background-color: lightgrey;
+}
